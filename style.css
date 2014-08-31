@@ -1,0 +1,17 @@
+body, h2 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fdf6e3;
+  width: 100%;
+}
+
+h1 {
+  max-width: 800px;
+  margin: 60px auto 0px auto;
+  font: 46px sans-serif;
+  text-align: center;
+  color: #b58900;
+}
